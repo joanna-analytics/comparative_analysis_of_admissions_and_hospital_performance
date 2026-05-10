@@ -81,7 +81,7 @@ Hospital performance was analysed by comparing patient volume and revenue per ca
 
 4️⃣ Bottom-left: Low volume + low billing 
 
-↓ Low activity / lower performance
+↓  Low activity / lower performance
 
 <br>
 
