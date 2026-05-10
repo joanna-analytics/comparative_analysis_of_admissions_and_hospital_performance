@@ -68,12 +68,14 @@ Hospital performance was analysed by comparing patient volume and revenue per ca
 ✔ Best performers
 
 2️⃣ Bottom-right: High volume + low billing 
+
 ⚠️ Inefficient / low revenue per patient
 
 3️⃣ Top-left: Low volume + high billing
 * Specialised / premium services
 
 4️⃣ Bottom-left: Low volume + low billing 
+
 ↓ Low activity / lower performance
 
 Time-based analysis at hospital level was considered but excluded due to low observation frequency, which would not produce statistically meaningful trends.
