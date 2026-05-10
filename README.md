@@ -63,16 +63,16 @@ A scatter plot with reference lines was used to segment hospitals into performan
 
 Hospital performance was analysed by comparing patient volume and revenue per case, and segmented hospitals into four categories using average-based quadrants:
 
-1️⃣ Top-right: High volume + high billing
+1️⃣ Top-right: High volume + high billing 
 ✔ Best performers
 
-2️⃣ Bottom-right: High volume + low billing
+2️⃣ Bottom-right: High volume + low billing 
 ⚠️ Inefficient / low revenue per patient
 
 3️⃣ Top-left: Low volume + high billing
 * Specialised / premium services
 
-4️⃣ Bottom-left: Low volume + low billing
+4️⃣ Bottom-left: Low volume + low billing 
 ↓ Low activity / lower performance
 
 Time-based analysis at hospital level was considered but excluded due to low observation frequency, which would not produce statistically meaningful trends.
