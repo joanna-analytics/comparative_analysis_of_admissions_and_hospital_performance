@@ -74,7 +74,7 @@ Hospital performance was analysed by comparing patient volume and revenue per ca
 ⚠️ Inefficient / low revenue per patient
 
 3️⃣ Top-left: Low volume + high billing<br>
-* Specialised / premium services
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Specialised / premium services
 
 4️⃣ Bottom-left: Low volume + low billing<br>
 &nbsp;&nbsp;↓ &nbsp;&nbsp;&nbsp;Low activity / lower performance
