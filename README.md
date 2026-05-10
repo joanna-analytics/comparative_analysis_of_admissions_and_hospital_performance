@@ -75,7 +75,7 @@ Time-based analysis at hospital level was considered but excluded due to low obs
 ---
 
 ## Dashboard Preview
-
+![Dashboard Preview](comparative_a nalysis_of_admissions_and_hospital_performance.png)
 
 ---
 
