@@ -77,7 +77,7 @@ Hospital performance was analysed by comparing patient volume and revenue per ca
 4️⃣ Bottom-left: Low volume + low billing 
 
 ↓ Low activity / lower performance
-
+<br>
 Time-based analysis at hospital level was considered but excluded due to low observation frequency, which would not produce statistically meaningful trends.
 
 ---
