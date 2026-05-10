@@ -1,6 +1,8 @@
-# Healthcare Data Analysis: Comparative Analysis of Admissions and Hospital Performance
+# Comparative Analysis of Admissions and Hospital Performance
 
-## Overview
+---
+
+## Project Overview
 This project analyses healthcare data to compare admission types and performance across multiple hospitals. The objective was to identify differences in patient volume, revenue per case, and operational efficiency, and to highlight high-performing and underperforming facilities.
 
 The project was built using PostgreSQL for data preparation and analysis, and Excel for dashboard development and visualisation.
@@ -14,7 +16,7 @@ The project was built using PostgreSQL for data preparation and analysis, and Ex
 
 ---
 
-## Dataset
+## Data Source
 
 Dataset: Healthcare Dataset  
 Author: Prasad Patil  
@@ -48,7 +50,7 @@ Performed analysis using:
 Key metrics analysed:
 - Total admissions
 - Average billing amount
-- Average length of stay
+- Volume versus revenue
 - Admission type distribution
 
 ### 3. Dashboard Development
@@ -58,6 +60,22 @@ Built an Excel dashboard to visualise:
 - Hospital performance (volume vs revenue)
 
 A scatter plot with reference lines was used to segment hospitals into performance groups based on average admissions and average billing.
+
+Hospital performance was analysed by comparing patient volume and revenue per case, and segmented hospitals into four categories using average-based quadrants:
+
+1️⃣ Top-right: High volume + high billing
+✔ Best performers
+
+2️⃣ Bottom-right: High volume + low billing
+⚠️ Inefficient / low revenue per patient
+
+3️⃣ Top-left: Low volume + high billing
+* Specialised / premium services
+
+4️⃣ Bottom-left: Low volume + low billing
+↓ Low activity / lower performance
+
+Time-based analysis at hospital level was considered but excluded due to low observation frequency, which would not produce statistically meaningful trends.
 
 ---
 
@@ -74,7 +92,7 @@ Time-based analysis at hospital level was considered but excluded due to low obs
 
 ---
 
-## Dashboard Preview
+## Dashboard
 ![Dashboard Preview](comparative_analysis_of_admissions_and_hospital_performance.png)
 
 ---
