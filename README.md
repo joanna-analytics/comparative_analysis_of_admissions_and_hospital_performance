@@ -59,7 +59,11 @@ Built an Excel dashboard to visualise:
 - Admission type distribution
 - Hospital performance (volume vs revenue)
 
+<br>
+
 A scatter plot with reference lines was used to segment hospitals into performance groups based on average admissions and average billing.
+
+<br>
 
 Hospital performance was analysed by comparing patient volume and revenue per case, and segmented hospitals into four categories using average-based quadrants:
 
